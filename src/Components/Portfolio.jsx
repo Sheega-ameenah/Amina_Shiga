@@ -31,18 +31,18 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Nitda SB4Kids",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I proudly served as an instructor in a two-week program organized by NITDA, where I shared my expertise in AI. I guided students through AI fundamentals, fostering hands-on learning and a passion for the field. This experience reinforced my commitment to AI education and innovation, and I'm excited to continue nurturing the next generation of AI enthusiasts.",
+    url: "https://www.instagram.com/reel/Cw5CojLs5rj/?igshid=MzRlODBiNWFlZA==",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Automatic license plate detection",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "During my internship at the National Center for Artificial intelligence and Robotics, i collaborated with others to develop an automatic license plate detection model for Nigerian plates.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
-  {
+  /*{
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
@@ -53,7 +53,7 @@ const projectList = [
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+  },*/
 ];
 
 const Portfolio = () => {

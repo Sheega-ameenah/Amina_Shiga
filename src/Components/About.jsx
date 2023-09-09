@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Passionate AI developer and data analyst with a relentless curiosity for exploring the frontiers of technology. Committed to creating innovative solutions and making data-driven decisions that drive business success.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "One quote that resonates with me and guides my work is by Arthur C. Clarke: 'Any sufficiently advanced technology is indistinguishable from magic.' I believe in turning the complex into the comprehensible, making technology approachable and transformative. Through continuous learning, research, and the pursuit of excellence, I aim to be at the forefront of AI development, helping shape a future where data is not just a resource but a catalyst for positive change.Feel free to reach out and connect with me if you share a passion for AI, data analysis, or if you're simply curious about the ever-evolving world of technology and its endless possibilities.";
 
 const About = () => {
   return (
